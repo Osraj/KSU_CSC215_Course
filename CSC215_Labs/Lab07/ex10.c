@@ -1,7 +1,7 @@
 /*
  * CSC215 - Lab07 - ex10
  *
- *      Write a program to count the number of words in a string using pointers.
+ *      Write a program to count lines on a text that contains multiple lines.
  */
 
 #include <stdio.h>

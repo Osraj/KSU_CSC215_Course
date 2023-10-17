@@ -1,7 +1,7 @@
 /*
  * CSC215 - Lab07 - ex8
  *
- *      Write a program to remove all spaces from a string using pointers.
+ *      Write a program to convert a string to uppercase or lowercase using pointers.
  */
 
 #include <stdio.h>

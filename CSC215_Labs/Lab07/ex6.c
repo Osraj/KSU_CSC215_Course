@@ -1,7 +1,7 @@
 /*
  * CSC215 - Lab07 - ex6
  *
- *      Write a program to find the first occurrence of a character in a string using pointers.
+ *      Write a program to find the last occurrence of a character in a string using pointers.
  */
 
 #include <stdio.h>
